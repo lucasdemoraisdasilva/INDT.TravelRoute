@@ -1,0 +1,7 @@
+SELECT TOP (1000) [Id]
+      ,[From]
+      ,[To]
+      ,[Value]
+      ,[InclusionDate]
+      ,[LastUpdateDate]
+  FROM [INDT.TravelRoute].[dbo].[Routes]
